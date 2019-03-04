@@ -3,4 +3,5 @@
 1. Sort 排序
     1. bubbleSort
     1. selectionSort
+    1. quikSort
 
