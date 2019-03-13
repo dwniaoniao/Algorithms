@@ -6,3 +6,5 @@
     1. [selectionSort](sort/selectionSort.py)
     1. [quikSort](sort/quickSort.py)
     1. [insertionSort](sort/insertionSort.py)
+    1. [mergeSort](sort/mergeSort.py)
+    
